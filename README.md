@@ -1,5 +1,5 @@
 # Andela35 TRAINING REPO
-[![Build Status](https://travis-ci.org/KengoWada/Andela35.svg?branch=develop)](https://travis-ci.org/KengoWada/Andela35) [![Coverage Status](https://coveralls.io/repos/github/KengoWada/Andela35/badge.svg?branch=develop)](https://coveralls.io/github/KengoWada/Andela35?branch=develop) [![Maintainability](https://api.codeclimate.com/v1/badges/b0cad17d635f3b5e6d68/maintainability)](https://codeclimate.com/github/Manorlds-Eaglespark/Andela35/maintainability)
+[![Build Status](https://travis-ci.com/Manorlds-Eaglespark/Andela35.svg?branch=develop)](https://travis-ci.com/Manorlds-Eaglespark/Andela35) [![Coverage Status](https://coveralls.io/repos/github/KengoWada/Andela35/badge.svg?branch=develop)](https://coveralls.io/github/KengoWada/Andela35?branch=develop) [![Maintainability](https://api.codeclimate.com/v1/badges/b0cad17d635f3b5e6d68/maintainability)](https://codeclimate.com/github/Manorlds-Eaglespark/Andela35/maintainability)
 
 This repo is to help learners easily follow along during the session.
 
